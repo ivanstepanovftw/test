@@ -3,6 +3,6 @@
 int main() {
     using namespace std;
 
-    cout<<"Hello wordl"<<endl;
+    cout<<"Hello world!"<<endl;
 }
 
