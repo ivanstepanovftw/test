@@ -1,4 +1,4 @@
-# test Feature #2
+# test Feature Number 2
 Description
 
 Feature #1
